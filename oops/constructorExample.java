@@ -25,6 +25,7 @@ public class constructorExample {
  * 3. Constructor Automatic Call Ho jaata hai during object creation.
  * 4. Jab ham Object Ko initialize karte hai.
  * 5. It can also be overloaded.
+ * 6. Agar Constructor mai enough space naa ho toh wah run time exception dega.
  */
 class Student {
     int rollNo;
